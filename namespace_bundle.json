@@ -5,6 +5,7 @@
   "schema": "deliverables-bundle/v1",
   "items": {
     "Nocturne Blueprint": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Nocturne Blueprint\n\nDeliverable maintained by Driftwood Co.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Nocturne Blueprint\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5172aa253e199a17\"\n}"
@@ -12,6 +13,7 @@
       "category": "brief"
     },
     "Aurora Vault": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Aurora Vault\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Aurora Vault\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4dff226bff8ebef3\"\n}"
@@ -19,6 +21,7 @@
       "category": "deck"
     },
     "Opaline Quarterly": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Opaline Quarterly\n\nDeliverable maintained by Driftwood Co.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Opaline Quarterly\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c62cf8a78ce1a4da\"\n}"
@@ -26,6 +29,7 @@
       "category": "report"
     },
     "Granite Brief": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Granite Brief\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Granite Brief\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c353236df003c470\"\n}"
@@ -33,6 +37,7 @@
       "category": "deck"
     },
     "Mossy Atlas": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Mossy Atlas\n\nDeliverable maintained by Driftwood Co.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Mossy Atlas\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"979fa85642b1e67b\"\n}"
@@ -40,6 +45,7 @@
       "category": "model"
     },
     "Marble Notebook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Marble Notebook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Marble Notebook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6ee66fa6bc5597e6\"\n}"
@@ -47,6 +53,7 @@
       "category": "report"
     },
     "Painted Survey": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Painted Survey\n\nDeliverable maintained by Driftwood Co.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Painted Survey\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d6dc91fddc0bf352\"\n}"
@@ -54,6 +61,7 @@
       "category": "spec"
     },
     "Fabled Orbit": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Fabled Orbit\n\nDeliverable maintained by Driftwood Co.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Fabled Orbit\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b95ea35ddbb7fb14\"\n}"
@@ -61,6 +69,7 @@
       "category": "archive"
     },
     "Nimbus Logbook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Nimbus Logbook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Nimbus Logbook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"72d1a3ec13fd69a6\"\n}"
@@ -68,6 +77,7 @@
       "category": "spec"
     },
     "Halcyon Digest": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Halcyon Digest\n\nDeliverable maintained by Driftwood Co.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Halcyon Digest\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"461a730219981538\"\n}"
@@ -75,6 +85,7 @@
       "category": "catalog"
     },
     "Gilded Brief": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Gilded Brief\n\nDeliverable maintained by Driftwood Co.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Brief\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d34c2e4447887f19\"\n}"
@@ -82,6 +93,7 @@
       "category": "spec"
     },
     "Amber Keepsake": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Amber Keepsake\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Amber Keepsake\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"40ccd2f787acc37d\"\n}"
@@ -89,6 +101,7 @@
       "category": "deck"
     },
     "Juniper Notebook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Juniper Notebook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Juniper Notebook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7c449f1860e16001\"\n}"
@@ -96,6 +109,7 @@
       "category": "dataset"
     },
     "Lilac Brief": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Lilac Brief\n\nDeliverable maintained by Driftwood Co.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Lilac Brief\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"01812834920dbfd5\"\n}"
@@ -103,6 +117,7 @@
       "category": "report"
     },
     "Balmoral Workbook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Balmoral Workbook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Balmoral Workbook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1b2643e02ab4862d\"\n}"
@@ -110,6 +125,7 @@
       "category": "catalog"
     },
     "Xenial Atlas": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Xenial Atlas\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Xenial Atlas\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"3f5f9203ed8229fe\"\n}"
@@ -117,6 +133,7 @@
       "category": "deck"
     },
     "Granite Manual": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Granite Manual\n\nDeliverable maintained by Driftwood Co.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Granite Manual\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"01fc536fccfd8379\"\n}"
@@ -124,6 +141,7 @@
       "category": "archive"
     },
     "Brisk Fixture": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Brisk Fixture\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Brisk Fixture\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b4b73eb74c927936\"\n}"
@@ -131,6 +149,7 @@
       "category": "dataset"
     },
     "Gilded Gazette": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Gilded Gazette\n\nDeliverable maintained by Driftwood Co.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Gazette\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1226d4759fa8314f\"\n}"
@@ -138,6 +157,7 @@
       "category": "catalog"
     },
     "Aurora Itinerary": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Aurora Itinerary\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Aurora Itinerary\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"cef506455ea5982c\"\n}"
@@ -145,6 +165,7 @@
       "category": "dataset"
     },
     "Sable Jigsaw": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Sable Jigsaw\n\nDeliverable maintained by Driftwood Co.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Sable Jigsaw\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a2af08cccfc47115\"\n}"
@@ -152,6 +173,7 @@
       "category": "spec"
     },
     "Halcyon Dossier": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Halcyon Dossier\n\nDeliverable maintained by Driftwood Co.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Halcyon Dossier\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e182327ad026c85f\"\n}"
@@ -159,6 +181,7 @@
       "category": "spec"
     },
     "Balmoral Update": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Balmoral Update\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Balmoral Update\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"3592a4029388dfc8\"\n}"
@@ -166,6 +189,7 @@
       "category": "deck"
     },
     "Harbor Ledgerbook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Harbor Ledgerbook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Harbor Ledgerbook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6225c0996cdbc7a5\"\n}"
@@ -173,6 +197,7 @@
       "category": "deck"
     },
     "Lunar Brief": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Lunar Brief\n\nDeliverable maintained by Driftwood Co.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Lunar Brief\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d9044ed54b933c4d\"\n}"
@@ -180,6 +205,7 @@
       "category": "archive"
     },
     "Nimbus Blueprint": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Nimbus Blueprint\n\nDeliverable maintained by Driftwood Co.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Nimbus Blueprint\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"497e2f90d6572868\"\n}"
@@ -187,6 +213,7 @@
       "category": "brief"
     },
     "Crimson Glossary": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Crimson Glossary\n\nDeliverable maintained by Driftwood Co.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Crimson Glossary\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"86d8687032ffb37a\"\n}"
@@ -194,6 +221,7 @@
       "category": "report"
     },
     "Aurora Survey": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Aurora Survey\n\nDeliverable maintained by Driftwood Co.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Aurora Survey\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5be15ac575f84bad\"\n}"
@@ -201,6 +229,7 @@
       "category": "model"
     },
     "Amber Kit": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Amber Kit\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Amber Kit\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6f47130f949fb27c\"\n}"
@@ -208,6 +237,7 @@
       "category": "dataset"
     },
     "Ivory Notebook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Ivory Notebook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Ivory Notebook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"2471dc2c9002df01\"\n}"
@@ -215,6 +245,7 @@
       "category": "model"
     },
     "Balmoral Folio": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Balmoral Folio\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Balmoral Folio\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bb4d9fa7c31c28d8\"\n}"
@@ -222,6 +253,7 @@
       "category": "dataset"
     },
     "Gilded Manual": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Gilded Manual\n\nDeliverable maintained by Driftwood Co.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Manual\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"eee00477d2636b6e\"\n}"
@@ -229,6 +261,7 @@
       "category": "report"
     },
     "Cobalt Kit": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Cobalt Kit\n\nDeliverable maintained by Driftwood Co.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Cobalt Kit\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"114b7ac1fba9eede\"\n}"
@@ -236,6 +269,7 @@
       "category": "brief"
     },
     "Velvet Explorer": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Velvet Explorer\n\nDeliverable maintained by Driftwood Co.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Velvet Explorer\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"cd0c40a4becd29a8\"\n}"
@@ -243,6 +277,7 @@
       "category": "archive"
     },
     "Balmoral Herald": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Balmoral Herald\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Balmoral Herald\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"87813842d55f3365\"\n}"
@@ -250,6 +285,7 @@
       "category": "deck"
     },
     "Xenial Outline": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Xenial Outline\n\nDeliverable maintained by Driftwood Co.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Xenial Outline\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6b9057279e6a918d\"\n}"
@@ -257,6 +293,7 @@
       "category": "model"
     },
     "Quiet Treasury": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Quiet Treasury\n\nDeliverable maintained by Driftwood Co.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Quiet Treasury\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f223d7e7a028d020\"\n}"
@@ -264,6 +301,7 @@
       "category": "model"
     },
     "Dusk Journal": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Dusk Journal\n\nDeliverable maintained by Driftwood Co.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Dusk Journal\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f914f7f4d9936c85\"\n}"
@@ -271,6 +309,7 @@
       "category": "catalog"
     },
     "Zephyr Handbook": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Zephyr Handbook\n\nDeliverable maintained by Driftwood Co.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Zephyr Handbook\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a6bcff0b1f1997a7\"\n}"
@@ -278,6 +317,7 @@
       "category": "catalog"
     },
     "Quiet Vault": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Quiet Vault\n\nDeliverable maintained by Driftwood Co.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Quiet Vault\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c3378b5fd131a258\"\n}"
@@ -285,6 +325,7 @@
       "category": "deck"
     },
     "Willow Portfolio": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Willow Portfolio\n\nDeliverable maintained by Driftwood Co.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Willow Portfolio\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"568da41dff61ca9a\"\n}"
@@ -292,6 +333,7 @@
       "category": "brief"
     },
     "Umber Chronicle": {
+      "owner": "Driftwood Co",
       "files": {
         "README.md": "# Umber Chronicle\n\nDeliverable maintained by Driftwood Co.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Umber Chronicle\",\n  \"owner\": \"Driftwood Co\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ab636b10197d1cbe\"\n}"
